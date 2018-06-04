@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#EDE916'
+    - '#2C5123'
+    - '#6CBD45'
+    - '#E91F21'
+  brandStrength: 0.8032888842280954
+  lightness: 0.2651431458070874
+  saturation: 0.6360423027072102
+  rhythmicContrast: 0.7317882822826505
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Frequency Equalizer
+layout_spectrum: 0.6926329985726625
+typography_spectrum: 0.21878729201853275
+content: []
+title: FEQ.IO
+description: Frequency EQ
+github: true
+author:
+  name: FEQ .IO
